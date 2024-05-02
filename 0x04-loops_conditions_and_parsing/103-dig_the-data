@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/env bash
 # This script parses Apache log files in list format.
 #   Groups visitors by IP and HTTP status code.
