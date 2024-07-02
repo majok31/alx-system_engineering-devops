@@ -1,0 +1,4 @@
+HOST *
+    passwordAuthentication no
+    identityFile ~/.ssh/school
+
