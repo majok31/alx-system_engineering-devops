@@ -38,7 +38,7 @@ frontend ruotdev-tech-frontend
     bind *:80
     default_backend ruotdev-tech-backend
 
-backend clickviral-tech-backend
+backend ruotdev-tech-backend
     balance roundrobin
     server 100812-web-01 52.86.163.50:80 check
     server 100812-web-02 54.160.106.137:80 check
