@@ -1,4 +1,4 @@
-#!/usr/bin/eniv bash
+#!/usr/bin/env bash
 # install load balancer
 
 
